@@ -1,6 +1,9 @@
 <!-- GitHub Profile README for Remi-Jacobs -->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:141e30,100:243b55&height=200&section=header&text=Remi%20Jacobs&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="banner"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=200&section=header&text=Remi%20Jacobs&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Remi Jacobs banner" />
+</p>
+
 
 <h1 align="center">
   Hi there 👋 I'm Remi  
@@ -11,7 +14,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://badge42.vercel.app/api/v2/clg0u2bzn005408l0blnp3c6p/project/42cursus" alt="42 Badge" />
+  <img src="https://github.com/Remi-Jacobs/Remi-Jacobs/blob/09b92ae4a880c019eb47854edcf7483a1c0dccb2/icon-42-3.png" alt="42 Logo" width="100"/>
 </p>
 
 ---
@@ -28,7 +31,7 @@ But am I going to make this my entire personality?
 Did I use ChatGPT to come up with some of these witty takes?  
 **Maybe…**  
 But you can tell by the decline in the precision of my use of *puntuations* that this paragraph was 100 percent me.  
-(I can spell *punctuations* correctly and use them almost accurately 😉)
+(I can spell *punctuations* correctly and use them almost accurately ;)
 
 If you want to see me in a suit 👉 [LinkedIn](https://www.linkedin.com/in/remi-jacobs)
 
@@ -68,5 +71,5 @@ If you want to see me in a suit 👉 [LinkedIn](https://www.linkedin.com/in/remi
 ---
 
 <!-- Optional GitHub Stats -->
-![Remi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Remi-Jacobs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remi-Jacobs&layout=compact&theme=radical)
+![Remi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Remi-Jacobs&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remi-Jacobs&layout=compact&theme=radical) -->
