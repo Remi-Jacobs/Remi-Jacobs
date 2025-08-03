@@ -61,6 +61,7 @@ If you want to see me in a suit 👉 [LinkedIn](https://www.linkedin.com/in/remi
 ## 📚 Fun Fact
 > I once wrote a performance improvement plan. Now I write parsers.  
 > (Honestly, the parsing is easier.)
+> Okay so that's not a fun fact per se, but I'm trying to make my GitHub pop.
 
 ---
 
