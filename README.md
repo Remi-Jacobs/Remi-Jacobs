@@ -21,10 +21,10 @@
 
 ### 🧠 *“People Person, Machine Whisperer”*
 
-I bring **10 years of HR leadership experience** into the world of software engineering — blending deep people skills with a love for systems, structure, and solving complex problems through code.
+I bring **10 years of HR leadership experience** into the world of software engineering; blending deep people skills with a love for systems, structure, and solving complex problems through code.
 
 I swapped **boardrooms for terminals** and dove headfirst into system-level programming, memory management, and building HTTP servers from scratch (because why not reinvent the wheel in C++?).  
-Trained at **42** in C, C++, and Unix-based development — because if I’m going to break things, I want root access.
+Trained at **42** in C, C++, and Unix-based development (because if I’m going to break things, I want root access).
 
 But am I going to make this my entire personality?  
 **Yes.**  
