@@ -53,7 +53,8 @@ If you want to see me in a suit 👉 [LinkedIn](https://www.linkedin.com/in/remi
 - 🚀 Turning ideas into buildable, efficient systems  
 - ⚙️ Automating workflows and solving hairy problems  
 - 🧠 Clean architecture, modular design, and systems-level thinking  
-- 🤝 Blending business acumen with technical execution  
+- 🤝 Blending business acumen with technical execution
+- 🤖 The wonder that is AI.
 - 👥 Collaboration, communication, and yelling at compilers together  
 
 ---
