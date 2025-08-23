@@ -72,5 +72,5 @@ If you want to see me in a suit 👉 [LinkedIn](https://www.linkedin.com/in/remi
 ---
 
 <!-- Optional GitHub Stats -->
-![Remi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Remi-Jacobs&show_icons=true&theme=radical) 
+<!--![Remi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Remi-Jacobs&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remi-Jacobs&layout=compact&theme=radical) -->
